@@ -1,11 +1,15 @@
 {
     "name": "aurora-borealis--nothern-lights--theme",
     "displayName": "Aurora Borealis (Nothern Lights) Theme",
-    "description": "A majestic night to code it is! Let the Aurora phase through you with this beautiful stack of color, made with love for nature, for space, and for your divine desire to code! ",
+    "description": "A majestic night to code it is! Let the Aurora phase through you with this beautiful stack of color, made with love for nature, for space, and for your divine desire to code!",
     "version": "0.0.1",
     "publisher": "TamanBachani",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TamanBachani/Aurora-vscode-theme-taman"
+    },
     "engines": {
-        "vscode": "^1.64.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
