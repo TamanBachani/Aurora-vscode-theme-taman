@@ -1,7 +1,7 @@
 {
     "name": "aurora-borealis--nothern-lights--theme",
     "displayName": "Aurora Borealis (Nothern Lights) Theme",
-    "description": "A majestic night to code it is! Let the Aurora phase through you with this beautiful stack of color, made with love for nature, for space, and for your divine desire to code!",
+    "description": "A majestic night to code it is! Let the Aurora phase through you with this beautiful stack of color, made with love for nature, for space, and for your divine desire to code! This theme is purplish, green, yellow, pink, and a pinch of yellow. My love for astronomy flows through this theme. ",
     "version": "0.1.0",
     "publisher": "TamanBachani",
     "repository": {
@@ -11,6 +11,7 @@
     "engines": {
         "vscode": "^1.60.0"
     },
+    "icon":"icon.jpg", 
     "categories": [
         "Themes"
     ],
